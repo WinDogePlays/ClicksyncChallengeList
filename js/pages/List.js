@@ -76,7 +76,7 @@ export default {
                     </div>
                     
                     <table class="records">
-                        <tr v-for="record in level.records" v-if="record.reviewed" class="record">
+                        <tr v-for="record in level.records" v-if="record.reviewed === true" class="record">
                             <td class="percent">
                                 <p v-if="record.rating > 10">10/10</p>
                                 <p v-else-if="record.rating < 0">0/10</p>

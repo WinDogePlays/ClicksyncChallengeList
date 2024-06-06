@@ -1,171 +1,179 @@
 {
-    "id": 105015806,
-    "name": "Silly Goofy Ha Ha",
-    "author": "PokeyYapper1991",
-    "creators": ["PokeyYapper1991"],
-    "verifier": "PokeyYapper1991",
-    "verification": "https://youtu.be/EUBtwD-e2R0",
-    "percentToQualify": 100,
-    "song-title": "LordAndiso - cats on pogo sticks",
-    "records": [
-      {
-            "user": "skiptracingclub",
-            "link": "https://youtu.be/WuvfVV4VOtU",
-            "percent": 100,
-            "hz": 240
-        },
-          {
-            "user": "Zealous",
-            "link": "https://youtu.be/jCuKOOLdwj4",
-            "percent": 100,
-            "hz": 600
-        },
-        {
-            "user": "sphericle",
-            "link": "https://youtu.be/OHmsQkXs7PU",
-            "percent": 100,
-            "rating": 7,
-            "hz": 240
-        },
-        {
-            "user": "TacoJed",
-            "link": "https://youtu.be/sU5ZV8cgE7w",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "limitationn",
-            "link": "https://youtu.be/cm04MWa-nuI?si=gjR-CjEMGzwSg60O",
-            "percent": 100,
-            "rating": 6,
-            "hz": 360
-        },
-        {
-            "user": "Empanada",
-            "link": "https://youtu.be/4LbiO4Pmtkc?si=e_pO6ddueXpeTUkE",
-            "percent": 100,
-            "hz": 60,
-            "mobile": "true"
-        },
-        {
-            "user": "Cowdoom11",
-            "link": "https://youtu.be/NSVqtRMp-EU?si=gStjbZK4DbUCfaUt",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "NotDragon",
-            "link": "https://www.youtube.com/watch?v=ot_zi1Zp_p8",
-            "percent": 100,
-            "rating": 7,
-            "hz": 330
-        },
-        {
-            "user": "Ultrobro",
-            "link": "https://youtu.be/PM1RwfnZG_k?si=liX64cZaLPXH6sLH",
-            "percent": 100,
-            "hz": 60,
-            "rating": 4,
-            "mobile": "true"
-        },
-        {
-            "user": "zLineage",
-            "link": "https://www.youtube.com/watch?v=19hjxBnC8w0v=ot_zi1Zp_p8",
-            "percent": 100,
-            "rating": 8,
-            "hz": 240
-        },
-        {
-            "user": "netfedex97",
-            "link": "https://youtu.be/uQZhOdkpRPM?si=aIPjyKp7hQBXKle0",
-            "percent": 100,
-            "rating": 8,
-            "hz": 240
-        },
-        {
-            "user": "Cocobuggz",
-            "link": "https://youtu.be/TqhcZLbxqf8",
-            "percent": 100,
-            "rating": 7,
-            "hz": 240
-        },
-        {
-            "user": "huntzz",
-            "link": "https://youtu.be/a2SpIQM4JnI",
-            "percent": 100,
-            "rating": 7,
-            "hz": 240
-        },
-        
-       { 
-            "user": "zonkers",
-            "link": "https://www.youtube.com/watch?v=goZ7YJ2WXY8",
-            "percent": 100,
-            "rating": 9,
-            "hz": 240
-        },
-        {
-            "user": "TheBlueElephant",
-            "link": "https://youtu.be/uYL8yHcD3NM",
-            "percent": 100,
-            "rating": 8,
-            "hz": 240
-        },
-        {
-            "user": "K3NNYY0",
-            "link": "https://youtu.be/-p1cAzqlMZA",
-            "percent": 100,
-            "rating": 8,
-            "hz": 240
-        },
-        {
-            "user": "WinDoge",
-            "link": "https://www.youtube.com/watch?v=YQZl_JMjk04",
-            "percent": 100,
-            "rating": 7,
-            "hz": 60
-        },
-        {
-            "user": "FogMello",
-            "link": "https://www.youtube.com/watch?v=uiM-plyFnl8&ab_channel=Saulgoodmello",
-            "percent": 100,
-            "rating": 10,
-            "hz": 240
-        },
-        {
-            "user": "xaern",
-            "link": "https://youtu.be/IMm25qp_yWg",
-            "percent": 100,
-            "rating": 10,
-            "hz": 576
-        },
-        {
-            "user": "acsua",
-            "link": "https://youtu.be/hnY1hRuq2rQ?si=Js-Onc4ikvkwvi0x",
-            "percent": 100,
-            "rating": 6,
-            "hz": 144
-        },
-        {
-            "user": "invest",
-            "link": "https://youtu.be/vyHg5xaPFxc",
-            "percent": 100,
-            "rating": 8,
-            "hz": 360
-        },
-        {
-            "user": "JuanGPe",
-            "link": "https://youtu.be/KlY86Lb0YlQ",
-            "percent": 100,
-            "rating": 10,
-            "hz": 1920
-        },
-        {
-            "user": "WinDoge",
-            "link": "https://youtu.be/vvezENfIw7k",
-            "percent": 100,
-            "rating": 7,
-            "hz": 144
-        }
-    ]
+  "id": 105015806,
+  "name": "Silly Goofy Ha Ha",
+  "author": "PokeyYapper1991",
+  "creators": [
+    "PokeyYapper1991"
+  ],
+  "verifier": "PokeyYapper1991",
+  "verification": "https://youtu.be/EUBtwD-e2R0",
+  "percentToQualify": 100,
+  "song-title": "LordAndiso - cats on pogo sticks",
+  "records": [
+    {
+      "user": "skiptracingclub",
+      "link": "https://youtu.be/WuvfVV4VOtU",
+      "percent": 100,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "Zealous",
+      "link": "https://youtu.be/jCuKOOLdwj4",
+      "percent": 100,
+      "hz": 600,
+      "reviewed": true
+    },
+    {
+      "user": "sphericle",
+      "link": "https://youtu.be/OHmsQkXs7PU",
+      "percent": 100,
+      "rating": 7,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "TacoJed",
+      "link": "https://youtu.be/sU5ZV8cgE7w",
+      "percent": 100,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "limitationn",
+      "link": "https://youtu.be/cm04MWa-nuI?si=gjR-CjEMGzwSg60O",
+      "percent": 100,
+      "rating": 6,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "Empanada",
+      "link": "https://youtu.be/4LbiO4Pmtkc?si=e_pO6ddueXpeTUkE",
+      "percent": 100,
+      "hz": 60,
+      "mobile": "true",
+      "reviewed": true
+    },
+    {
+      "user": "Cowdoom11",
+      "link": "https://youtu.be/NSVqtRMp-EU?si=gStjbZK4DbUCfaUt",
+      "percent": 100,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "NotDragon",
+      "link": "https://www.youtube.com/watch?v=ot_zi1Zp_p8",
+      "percent": 100,
+      "rating": 7,
+      "hz": 330,
+      "reviewed": true
+    },
+    {
+      "user": "Ultrobro",
+      "link": "https://youtu.be/PM1RwfnZG_k?si=liX64cZaLPXH6sLH",
+      "percent": 100,
+      "hz": 60,
+      "rating": 4,
+      "mobile": "true",
+      "reviewed": true
+    },
+    {
+      "user": "zLineage",
+      "link": "https://www.youtube.com/watch?v=19hjxBnC8w0v=ot_zi1Zp_p8",
+      "percent": 100,
+      "rating": 8,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "netfedex97",
+      "link": "https://youtu.be/uQZhOdkpRPM?si=aIPjyKp7hQBXKle0",
+      "percent": 100,
+      "rating": 8,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "Cocobuggz",
+      "link": "https://youtu.be/TqhcZLbxqf8",
+      "percent": 100,
+      "rating": 7,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "huntzz",
+      "link": "https://youtu.be/a2SpIQM4JnI",
+      "percent": 100,
+      "rating": 7,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "zonkers",
+      "link": "https://www.youtube.com/watch?v=goZ7YJ2WXY8",
+      "percent": 100,
+      "rating": 9,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/uYL8yHcD3NM",
+      "percent": 100,
+      "rating": 8,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "K3NNYY0",
+      "link": "https://youtu.be/-p1cAzqlMZA",
+      "percent": 100,
+      "rating": 8,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "WinDoge",
+      "link": "https://www.youtube.com/watch?v=YQZl_JMjk04",
+      "percent": 100,
+      "rating": 7,
+      "hz": 60,
+      "reviewed": true
+    },
+    {
+      "user": "FogMello",
+      "link": "https://www.youtube.com/watch?v=uiM-plyFnl8&ab_channel=Saulgoodmello",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "xaern",
+      "link": "https://youtu.be/IMm25qp_yWg",
+      "percent": 100,
+      "rating": 10,
+      "hz": 576,
+      "reviewed": true
+    },
+    {
+      "user": "acsua",
+      "link": "https://youtu.be/hnY1hRuq2rQ?si=Js-Onc4ikvkwvi0x",
+      "percent": 100,
+      "rating": 6,
+      "hz": 144,
+      "reviewed": true
+    },
+    {
+      "user": "invest",
+      "link": "https://youtu.be/vyHg5xaPFxc",
+      "percent": 100,
+      "rating": 8,
+      "hz": 360,
+      "reviewed": true
+    }
+  ]
 }

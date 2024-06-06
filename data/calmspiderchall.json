@@ -1,63 +1,54 @@
 {
-    "id": 105685912,
-    "name": "Calm Spider Chall",
-    "author": "netfedex97",
-    "creators": [
-        "netfedex97"
-    ],
-    "verifier": "netfedex97",
-    "verification": "https://youtu.be/fT7x_6Lu-Zc",
-    "percentToQualify": 100,
-    "song-title": "1f1n1ty - Calm Craggy Area Remix",
-    "records": [
-        {
-            "user": "TheBlueElephant",
-            "link": "https://youtu.be/JVfBQLQn8ss",
-            "percent": 100,
-            "rating": 10,
-            "hz": 240
-        },
-        {
-            "user": "sphericle",
-            "link": "https://youtu.be/WBkip99G598",
-            "percent": 100,
-            "rating": 9,
-            "hz": 240
-        },
-        {
-            "user": "limitationn",
-            "link": "https://youtu.be/NOcmvjjlxwQ",
-            "percent": 100,
-            "rating": 10,
-            "hz": 360
-        },
-        {
-            "user": "NotDragon",
-            "link": "https://www.youtube.com/watch?v=f0MItWtLwqc",
-            "percent": 100,
-            "rating": 4,
-            "hz": 330
-        },
-        {
-            "user": "WinDoge",
-            "link": "https://youtu.be/BDnVdRhwvQ8",
-            "percent": 100,
-            "rating": 10,
-            "hz": 240
-        },
-        {
-            "user": "JuanGPe",
-            "link": "https://youtu.be/KlY86Lb0YlQ",
-            "percent": 100,
-            "rating": 0.1,
-            "hz": 1920
-        },
-        {
-            "user": "Cocobuggz",
-            "link": "https://www.youtube.com/watch?v=lzd84xZHdfU",
-            "percent": 100,
-            "rating": 0.1,
-            "hz": 360
-        }
-    ]
+  "id": 105685912,
+  "name": "Calm Spider Chall",
+  "author": "netfedex97",
+  "creators": [
+    "netfedex97"
+  ],
+  "verifier": "netfedex97",
+  "verification": "https://youtu.be/fT7x_6Lu-Zc",
+  "percentToQualify": 100,
+  "song-title": "1f1n1ty - Calm Craggy Area Remix",
+  "records": [
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/JVfBQLQn8ss",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "sphericle",
+      "link": "https://youtu.be/WBkip99G598",
+      "percent": 100,
+      "rating": 9,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "limitationn",
+      "link": "https://youtu.be/NOcmvjjlxwQ",
+      "percent": 100,
+      "rating": 10,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "NotDragon",
+      "link": "https://www.youtube.com/watch?v=f0MItWtLwqc",
+      "percent": 100,
+      "rating": 4,
+      "hz": 330,
+      "reviewed": true
+    },
+    {
+      "user": "WinDoge",
+      "link": "https://youtu.be/BDnVdRhwvQ8",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    }
+  ]
 }

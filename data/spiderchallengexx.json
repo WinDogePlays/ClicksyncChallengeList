@@ -1,54 +1,62 @@
 {
-    "id": 105485933,
-    "name": "spider challenge XX",
-    "author": "netfedex97",
-    "creators": ["netfedex97"],
-    "verifier": "netfedex97",
-    "verification": "https://youtu.be/EffHpZOE1EQ",
-    "percentToQualify": 100,
-    "song-title": "Acid-Notation - ---Spiders---",
-    "records": [
-        {
-            "user": "limitationn",
-            "link": "https://youtu.be/rGGHtHuKG9A?si=gwEbfNhS_erWZjk1",
-            "percent": 100,
-            "rating": 5,
-            "hz": 360
-        },
-        {
-            "user": "TheBlueElephant",
-            "link": "https://youtu.be/udlTsgKtBzU",
-            "percent": 100,
-            "rating": 3,
-            "hz": 240
-        },
-        {
-            "user": "K3NNYY0",
-            "link": "https://youtu.be/NiSF2Lwnnk4",
-            "percent": 100,
-            "rating": 4,
-            "hz": 240
-        },
-        {
-            "user": "Cocobuggz",
-            "link": "https://www.youtube.com/watch?v=XOttkmrOFiQ",
-            "percent": 100,
-            "rating": 6,
-            "hz": 360
-        },
-        {
-            "user": "zonkers",
-            "link": "https://youtu.be/mrRKWineIks",
-            "percent": 100,
-            "rating": 10,
-            "hz": 240
-        },
-        {
-            "user": "NotDragon",
-            "link": "https://www.youtube.com/watch?v=f0MItWtLwqc",
-            "percent": 100,
-            "rating": 10,
-            "hz": 330
-        }
-    ]
+  "id": 105485933,
+  "name": "spider challenge XX",
+  "author": "netfedex97",
+  "creators": [
+    "netfedex97"
+  ],
+  "verifier": "netfedex97",
+  "verification": "https://youtu.be/EffHpZOE1EQ",
+  "percentToQualify": 100,
+  "song-title": "Acid-Notation - ---Spiders---",
+  "records": [
+    {
+      "user": "limitationn",
+      "link": "https://youtu.be/rGGHtHuKG9A?si=gwEbfNhS_erWZjk1",
+      "percent": 100,
+      "rating": 5,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/udlTsgKtBzU",
+      "percent": 100,
+      "rating": 3,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "K3NNYY0",
+      "link": "https://youtu.be/NiSF2Lwnnk4",
+      "percent": 100,
+      "rating": 4,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "Cocobuggz",
+      "link": "https://www.youtube.com/watch?v=XOttkmrOFiQ",
+      "percent": 100,
+      "rating": 6,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "zonkers",
+      "link": "https://youtu.be/mrRKWineIks",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "NotDragon",
+      "link": "https://www.youtube.com/watch?v=f0MItWtLwqc",
+      "percent": 100,
+      "rating": 10,
+      "hz": 330,
+      "reviewed": true
+    }
+  ]
 }

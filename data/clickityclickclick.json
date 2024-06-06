@@ -1,75 +1,78 @@
 {
-    "id": 105476191,
-    "name": "clickity click click",
-    "author": "zonkersreal",
-    "creators": ["zonkers"],
-    "verifier": "zonkers",
-    "verification": "https://youtu.be/jKLzqDCILhs",
-    "percentToQualify": 100,
-    "song-title": "Kevin MacLeod - 8bit Dungeon Boss",
-    "records": [
-        {
-            "user": "limitationn",
-            "link": "https://youtu.be/BSixeih3puM",
-            "percent": 100,
-            "rating": 6,
-            "hz": 2000
-        },
-        {
-            "user": "TheBlueElephant",
-            "link": "https://youtu.be/TiTX1atLJ_I",
-            "percent": 100,
-            "rating": 6.0008,
-            "hz": 240
-        },
-       {
-            "user": "K3NNYY0",
-            "link": "https://youtu.be/zJyfJvBZGWc",
-            "percent": 100,
-            "rating": 5,
-            "hz": 240
-        },
-        {
-            "user": "xaern",
-            "link": "https://youtu.be/IMm25qp_yWg",
-            "percent": 100,
-            "rating": 10,
-            "hz": 576
-        },
-        {
-            "user": "FogMello",
-            "link": "https://www.youtube.com/watch?v=-PJ4oECuJok&ab_channel=Saulgoodmello",
-            "percent": 100,
-            "rating": 6,
-            "hz": 240
-        },
-        {
-            "user": "netfedex97",
-            "link": "https://youtu.be/41TtKqNaAtk",
-            "percent": 100,
-            "rating": 3,
-            "hz": 144
-        },
-        {
-            "user": "Cocobuggz",
-            "link": "https://youtu.be/k-I12tUxn1I",
-            "percent": 100,
-            "rating": 3,
-            "hz": 360
-        },
-        {
-            "user": "NotDragon",
-            "link": "https://www.youtube.com/watch?v=f0MItWtLwqc",
-            "percent": 100,
-            "rating": 7,
-            "hz": 330
-        },
-        {
-            "user": "JuanGPe",
-            "link": "https://youtu.be/KlY86Lb0YlQ",
-            "percent": 100,
-            "rating": 10,
-            "hz": 1920
-        }
-    ]
+  "id": 105476191,
+  "name": "clickity click click",
+  "author": "zonkersreal",
+  "creators": [
+    "zonkers"
+  ],
+  "verifier": "zonkers",
+  "verification": "https://youtu.be/jKLzqDCILhs",
+  "percentToQualify": 100,
+  "song-title": "Kevin MacLeod - 8bit Dungeon Boss",
+  "records": [
+    {
+      "user": "limitationn",
+      "link": "https://youtu.be/BSixeih3puM",
+      "percent": 100,
+      "rating": 6,
+      "hz": 2000,
+      "reviewed": true
+    },
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/TiTX1atLJ_I",
+      "percent": 100,
+      "rating": 6.0008,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "K3NNYY0",
+      "link": "https://youtu.be/zJyfJvBZGWc",
+      "percent": 100,
+      "rating": 5,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "xaern",
+      "link": "https://youtu.be/IMm25qp_yWg",
+      "percent": 100,
+      "rating": 10,
+      "hz": 576,
+      "reviewed": true
+    },
+    {
+      "user": "FogMello",
+      "link": "https://www.youtube.com/watch?v=-PJ4oECuJok&ab_channel=Saulgoodmello",
+      "percent": 100,
+      "rating": 6,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "netfedex97",
+      "link": "https://youtu.be/41TtKqNaAtk",
+      "percent": 100,
+      "rating": 3,
+      "hz": 144,
+      "reviewed": true
+    },
+    {
+      "user": "Cocobuggz",
+      "link": "https://youtu.be/k-I12tUxn1I",
+      "percent": 100,
+      "rating": 3,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "NotDragon",
+      "link": "https://www.youtube.com/watch?v=f0MItWtLwqc",
+      "percent": 100,
+      "rating": 7,
+      "hz": 330,
+      "reviewed": true
+    }
+  ]
 }

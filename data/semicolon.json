@@ -1,68 +1,78 @@
 {
-    "id": 100841346,
-    "name": "semicolon chacha",
-    "author": "vanious",
-    "creators": ["vanious"],
-    "verifier": "vanious",
-    "verification": "https://youtu.be/XRMbN7G0nd8",
-    "percentToQualify": 100,
-    "song-title": "Waterflame - -Race Around the World-",
-    "records": [
-       {
-            "user": "limitationn",
-            "link": "https://youtu.be/VpWlMehJacU",
-            "percent": 100,
-            "rating": 10,
-            "hz": 240
-        },
-       {
-            "user": "TheBlueElephant",
-            "link": "https://youtu.be/KHQRd8Y1rR8",
-            "percent": 100,
-            "rating": 4,
-            "hz": 240
-        },
-       {
-            "user": "The16FigureLimit",
-            "link": "https://youtu.be/GXsRfW9gwm4",
-            "percent": 100,
-            "rating": 6,
-            "hz": 240
-        },
-      { 
-            "user": "zonkers",
-            "link": "https://youtu.be/j-6iRKr-_l8v=goZ7YJ2WXY8",
-            "percent": 100,
-            "rating": 7.5,
-            "hz": 240
-        },
-       {
-            "user": "K3NNYY0",
-            "link": "https://youtu.be/zJyfJvBZGWc",
-            "percent": 100,
-            "rating": 2,
-            "hz": 240
-        },
-        {
-            "user": "xaern",
-            "link": "https://youtu.be/IMm25qp_yWg",
-            "percent": 100,
-            "rating": 10,
-            "hz": 576
-        },
-        {
-            "user": "FogMello",
-            "link": "https://www.youtube.com/watch?v=-PJ4oECuJok&ab_channel=Saulgoodmello",
-            "percent": 100,
-            "rating": 7,
-            "hz": 240
-        },
-        {
-            "user": "NotDragon",
-            "link": "https://www.youtube.com/watch?v=f0MItWtLwqc",
-            "percent": 100,
-            "rating": 9,
-            "hz": 330
-        }
-    ]
+  "id": 100841346,
+  "name": "semicolon chacha",
+  "author": "vanious",
+  "creators": [
+    "vanious"
+  ],
+  "verifier": "vanious",
+  "verification": "https://youtu.be/XRMbN7G0nd8",
+  "percentToQualify": 100,
+  "song-title": "Waterflame - -Race Around the World-",
+  "records": [
+    {
+      "user": "limitationn",
+      "link": "https://youtu.be/VpWlMehJacU",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/KHQRd8Y1rR8",
+      "percent": 100,
+      "rating": 4,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "The16FigureLimit",
+      "link": "https://youtu.be/GXsRfW9gwm4",
+      "percent": 100,
+      "rating": 6,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "zonkers",
+      "link": "https://youtu.be/j-6iRKr-_l8v=goZ7YJ2WXY8",
+      "percent": 100,
+      "rating": 7.5,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "K3NNYY0",
+      "link": "https://youtu.be/zJyfJvBZGWc",
+      "percent": 100,
+      "rating": 2,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "xaern",
+      "link": "https://youtu.be/IMm25qp_yWg",
+      "percent": 100,
+      "rating": 10,
+      "hz": 576,
+      "reviewed": true
+    },
+    {
+      "user": "FogMello",
+      "link": "https://www.youtube.com/watch?v=-PJ4oECuJok&ab_channel=Saulgoodmello",
+      "percent": 100,
+      "rating": 7,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "NotDragon",
+      "link": "https://www.youtube.com/watch?v=f0MItWtLwqc",
+      "percent": 100,
+      "rating": 9,
+      "hz": 330,
+      "reviewed": true
+    }
+  ]
 }

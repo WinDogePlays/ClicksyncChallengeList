@@ -1,34 +1,39 @@
 {
-    "id": 105628073,
-    "name": "gler chall",
-    "author": "Caleger",
-    "creators": ["Caleger"],
-    "verifier": "Caleger",
-    "verification": "https://youtu.be/kEQzLdxU4qI",
-    "brokenHz": "240",
-    "percentToQualify": 100,
-    "song-title": "~NK~ - Take Me Away",
-    "records": [
-        {
-            "user": "FogMello",
-            "link": "https://www.youtube.com/watch?v=da39SSnnWS0&ab_channel=Saulgoodmello",
-            "percent": 100,
-            "rating": 9,
-            "hz": 60
-        },
-        {
-            "user": "xaern",
-            "link": "https://youtu.be/BsfH4XTVkT8",
-            "percent": 100,
-            "rating": 9,
-            "hz": 60
-        },
-        {
-            "user": "TheBlueElephant",
-            "link": "https://youtu.be/udlTsgKtBzU",
-            "percent": 100,
-            "rating": -99,
-            "hz": 60
-        }
-    ]
+  "id": 105628073,
+  "name": "gler chall",
+  "author": "Caleger",
+  "creators": [
+    "Caleger"
+  ],
+  "verifier": "Caleger",
+  "verification": "https://youtu.be/kEQzLdxU4qI",
+  "brokenHz": "240",
+  "percentToQualify": 100,
+  "song-title": "~NK~ - Take Me Away",
+  "records": [
+    {
+      "user": "FogMello",
+      "link": "https://www.youtube.com/watch?v=da39SSnnWS0&ab_channel=Saulgoodmello",
+      "percent": 100,
+      "rating": 9,
+      "hz": 60,
+      "reviewed": true
+    },
+    {
+      "user": "xaern",
+      "link": "https://youtu.be/BsfH4XTVkT8",
+      "percent": 100,
+      "rating": 9,
+      "hz": 60,
+      "reviewed": true
+    },
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/udlTsgKtBzU",
+      "percent": 100,
+      "rating": -99,
+      "hz": 60,
+      "reviewed": true
+    }
+  ]
 }

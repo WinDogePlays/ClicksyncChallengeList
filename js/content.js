@@ -57,6 +57,8 @@ export async function fetchLeaderboard() {
             return;
         }
 
+        const filteredRecords = level.records.filter(record => record.reviewed !== false);
+        
         // Verification
         const verifier = Object.keys(scoreMap).find(
             (u) => u.toLowerCase() === level.verifier.toLowerCase(),
@@ -75,7 +77,7 @@ export async function fetchLeaderboard() {
         });
 
         // Records
-        level.records.forEach((record) => {
+        filteredRecords.forEach((record) => {
             const user = Object.keys(scoreMap).find(
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
             ) || record.user;

@@ -2,7 +2,7 @@ name: Automatic Record Finder
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/1 * * * *'
   workflow_dispatch:
     inputs:
       manual_trigger:

@@ -1,0 +1,26 @@
+{
+    "id": 105481242,
+    "name": "IDK",
+    "author": "limitationn",
+    "creators": ["blebbiegames"],
+    "verifier": "limitationn",
+    "verification": "https://youtu.be/9tiLCwv7HzE?si=1WUdYKg0rZkT9Aqm",
+    "percentToQualify": 100,
+    "song-title": "ImCold - Zenith",
+    "records": [
+        {
+            "user": "TheBlueElephant",
+            "link": "https://youtu.be/lc1uCWo0xGU",
+            "percent": 100,
+            "rating": 3,
+            "hz": 240
+        },
+        {
+            "user": "xaern",
+            "link": "https://youtu.be/NS0r8OcOVjc",
+            "percent": 100,
+            "rating": 4,
+            "hz": 576
+        }
+    ]
+}

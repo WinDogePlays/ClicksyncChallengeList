@@ -1,0 +1,111 @@
+{
+    "id": 105677595,
+    "name": "time machiene",
+    "author": "Classy8264",
+    "creators": ["Classy8264"],
+    "verifier": "Classy8264",
+    "verification": "https://www.youtube.com/watch?v=5qox4oTdFQE",
+    "percentToQualify": 100,
+    "song-title": "Waterflame - Time Machine",
+    "records": [
+        {
+            "user": "limitationn",
+            "link": "https://youtu.be/HpzI64pKbGM",
+            "percent": 100,
+            "rating": 8,
+            "hz": 240
+        },
+        {
+            "user": "netfedex97",
+            "link": "https://youtu.be/sC75Jcc4yLE",
+            "percent": 100,
+            "rating": 8,
+            "hz": 144
+        },
+        {
+            "user": "WinDoge",
+            "link": "https://youtu.be/K6sSlEp-EB8",
+            "percent": 100,
+            "rating": 9,
+            "hz": 144
+        },
+        {
+            "user": "TheBlueElephant",
+            "link": "https://youtu.be/udlTsgKtBzU",
+            "percent": 100,
+            "rating": 8,
+            "hz": 240
+        },
+        {
+            "user": "zLineage",
+            "link": "https://www.youtube.com/watch?v=t7jQ2OUhiX8",
+            "percent": 100,
+            "rating": 8,
+            "hz": 240
+        },
+        {
+            "user": "K3NNYY0",
+            "link": "https://youtu.be/NiSF2Lwnnk4",
+            "percent": 100,
+            "rating": 10,
+            "hz": 240
+        },
+        {
+            "user": "Cocobuggz",
+            "link": "https://youtu.be/QXVLMyVaimY",
+            "percent": 100,
+            "rating": 5,
+            "hz": 360
+        },
+        {
+            "user": "zonkers",
+            "link": "https://youtu.be/9glQiP0Z-mU",
+            "percent": 100,
+            "rating": 10,
+            "hz": 240
+        },
+        {
+            "user": "acsua",
+            "link": "https://youtu.be/hnY1hRuq2rQ?si=Js-Onc4ikvkwvi0x",
+            "percent": 100,
+            "rating": 5,
+            "hz": 144
+        },
+        {
+            "user": "Zealous",
+            "link": "https://youtu.be/wP00I67_9UY",
+            "percent": 100,
+            "rating": 7,
+            "hz": 240
+        },
+        {
+            "user": "FogMello",
+            "link": "https://youtu.be/qeI52okqTIE",
+            "percent": 100,
+            "rating": 8,
+            "hz": 240
+        },
+        {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=f0MItWtLwqc",
+            "percent": 100,
+            "rating": 8,
+            "hz": 330
+        },
+        {
+            "user": "Ultrobro",
+            "link": "https://youtu.be/bQ25Wkvz_i4?si=YrNwb_dh1vz6_1wc",
+            "percent": 100,
+            "rating": 6,
+            "mobile": "true",
+            "hz": 60
+        },
+        {
+            "user": "invest",
+            "link": "https://youtu.be/vyHg5xaPFxc",
+            "percent": 100,
+            "rating": 8,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": 105371434,
+  "name": "Pink Caramel",
+  "author": "zLineage",
+  "creators": [
+    "zLineage"
+  ],
+  "verifier": "zLineage",
+  "verification": "https://www.youtube.com/watch?v=fUtrS77K_ZE",
+  "percentToQualify": 100,
+  "song-title": "EspiDev - Caramel",
+  "records": [
+    {
+      "user": "sphericle",
+      "link": "https://youtu.be/uzfb4j7CYls",
+      "percent": 100,
+      "rating": 9,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "limitationn",
+      "link": "https://youtu.be/QH0vaSf6pjw",
+      "percent": 100,
+      "rating": 10,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "Cocobuggz",
+      "link": "https://youtu.be/a2B_ERjG0Sk",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "zonkers",
+      "link": "https://youtu.be/G-sBLju7AVE",
+      "percent": 100,
+      "rating": 4,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "Zealous",
+      "link": "hhttps://youtu.be/08aU1AM7ZYk",
+      "percent": 100,
+      "rating": 1,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "NotDragon",
+      "link": "https://www.youtube.com/watch?v=UwhgdFbi3Ac",
+      "percent": 100,
+      "rating": 5,
+      "hz": 330,
+      "reviewed": true
+    },
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/uYL8yHcD3NM",
+      "percent": 100,
+      "rating": 8,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "netfedex97",
+      "link": "https://youtu.be/sz6yXRQR-IM",
+      "percent": 100,
+      "rating": 9,
+      "hz": 144,
+      "reviewed": true
+    },
+    {
+      "user": "TacoJed",
+      "link": "https://www.youtube.com/watch?v=odPUQAt3alk",
+      "percent": 100,
+      "rating": 7,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "The16FigureLimit",
+      "link": "https://youtu.be/IVF09hc__bo",
+      "percent": 100,
+      "rating": 7,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "K3NNYY0",
+      "link": "https://youtu.be/-p1cAzqlMZA",
+      "percent": 100,
+      "rating": 7,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "xaern",
+      "link": "https://youtu.be/IMm25qp_yWg",
+      "percent": 100,
+      "rating": 10,
+      "hz": 576,
+      "reviewed": true
+    },
+    {
+      "user": "FogMello",
+      "link": "https://www.youtube.com/watch?v=-PJ4oECuJok&ab_channel=Saulgoodmello",
+      "percent": 100,
+      "rating": 9,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "acsua",
+      "link": "https://youtu.be/FvqFSWSEPZA",
+      "percent": 100,
+      "rating": 4,
+      "hz": 144,
+      "reviewed": true
+    },
+    {
+      "user": "rainity",
+      "link": "https://youtube.com/shorts/lp3g5MBAAcs?si=5dZOxu5zBV0Rm6c7",
+      "percent": 100,
+      "rating": 0.1,
+      "hz": 240,
+      "reviewed": true
+    }
+  ]
+}

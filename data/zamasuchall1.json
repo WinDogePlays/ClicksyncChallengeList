@@ -1,0 +1,86 @@
+{
+  "id": 85825780,
+  "name": "Zamasu Chall 1",
+  "author": "Yossarian",
+  "creators": [
+    "Yossarian"
+  ],
+  "verifier": "Yossarian",
+  "verification": "https://www.youtube.com/watch?v=UUOjK6ITuRE",
+  "percentToQualify": 100,
+  "song-title": "TheColdSpirit - The Hallucination",
+  "records": [
+    {
+      "user": "Koozoo2000",
+      "link": "https://www.youtube.com/watch?v=UUOjK6ITuRE",
+      "percent": 100,
+      "rating": 193294328,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/raT6Mzh-ckQ",
+      "percent": 100,
+      "rating": 9,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "zonkers",
+      "link": "https://youtu.be/snUtZiHJ_X4Q",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "limitationn",
+      "link": "https://youtu.be/Cxjwg95lLfY",
+      "percent": 100,
+      "rating": 9,
+      "hz": 2000,
+      "reviewed": true
+    },
+    {
+      "user": "The16FigureLimit",
+      "link": "https://youtu.be/6KyJCflQ70w",
+      "percent": 100,
+      "rating": 8,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "K3NNYY0",
+      "link": "https://youtu.be/zJyfJvBZGWc",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "xaern",
+      "link": "https://youtu.be/IMm25qp_yWg",
+      "percent": 100,
+      "rating": 10,
+      "hz": 576,
+      "reviewed": true
+    },
+    {
+      "user": "FogMello",
+      "link": "https://www.youtube.com/watch?v=rbGLrZU1xrk&ab_channel=Saulgoodmello",
+      "percent": 100,
+      "rating": 9,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "Classy8264",
+      "link": "https://youtu.be/U310TeSajF8",
+      "percent": 100,
+      "rating": 9,
+      "hz": 240,
+      "reviewed": true
+    }
+  ]
+}

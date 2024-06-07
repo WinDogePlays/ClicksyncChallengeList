@@ -1,0 +1,111 @@
+{
+  "id": 105451213,
+  "name": "CRAZY",
+  "author": "zZealous",
+  "creators": [
+    "Zealous",
+    "Vanious"
+  ],
+  "verifier": "Zealous",
+  "verification": "https://www.youtube.com/watch?v=HYl8ngwm-7c&ab_channel=zel",
+  "percentToQualify": 100,
+  "song-title": "Creo - Crazy",
+  "records": [
+    {
+      "user": "limitationn",
+      "link": "https://youtu.be/NgAdGO34BZE?si=0QiVYj8B52ufqO6Z",
+      "percent": 100,
+      "rating": 10,
+      "hz": 2000,
+      "reviewed": true
+    },
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/nwHrDByR5Vg",
+      "percent": 100,
+      "rating": 4,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "zonkers",
+      "link": "https://youtu.be/_zKyWsUSolY",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "zLineage",
+      "link": "https://www.youtube.com/watch?v=P6dVwirUxss",
+      "percent": 100,
+      "rating": 1,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "netfedex97",
+      "link": "https://youtu.be/zVCvIa4YP-I",
+      "percent": 100,
+      "rating": 8,
+      "hz": 144,
+      "reviewed": true
+    },
+    {
+      "user": "TacoJed",
+      "link": "https://www.youtube.com/watch?v=QWL3qwuaxlc",
+      "percent": 100,
+      "rating": 8,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "The16FigureLimit",
+      "link": "https://youtu.be/_CbqgeCN_uA",
+      "percent": 100,
+      "rating": 4,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "K3NNYY0",
+      "link": "https://youtu.be/zJyfJvBZGWc",
+      "percent": 100,
+      "rating": 6,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "xaern",
+      "link": "https://youtu.be/IMm25qp_yWg",
+      "percent": 100,
+      "rating": 10,
+      "hz": 576,
+      "reviewed": true
+    },
+    {
+      "user": "FogMello",
+      "link": "https://www.youtube.com/watch?v=-PJ4oECuJok&ab_channel=Saulgoodmello",
+      "percent": 100,
+      "rating": 8,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "acsua",
+      "link": "https://youtu.be/FvqFSWSEPZA",
+      "percent": 100,
+      "rating": 8,
+      "hz": 144,
+      "reviewed": true
+    },
+    {
+      "user": "NotDragon",
+      "link": "https://www.youtube.com/watch?v=f0MItWtLwqc",
+      "percent": 100,
+      "rating": 3,
+      "hz": 330,
+      "reviewed": true
+    }
+  ]
+}

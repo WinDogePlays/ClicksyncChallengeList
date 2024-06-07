@@ -1,0 +1,138 @@
+{
+    "id": 91741752,
+    "name": "Koozoo2k Challenge",
+    "author": "Xeroniuss",
+    "creators": ["Xeronius"],
+    "verifier": "Xeronius",
+    "verification": "https://www.youtube.com/watch?v=OaUNJkXxNNE",
+    "percentToQualify": 100,
+    "song-title": "AnalogByNature - Cheetahmen (Action 52)",
+    "records": [
+            {
+            "user": "limitationn",
+            "link": "https://youtu.be/MQr6bgdBv-M?si=3qQVTSW2AD-HUSpV",
+            "percent": 100,
+            "hz": 240
+            },
+            {
+            "user": "Zealous",
+            "link": "https://www.youtube.com/watch?v=p6F11HrghCE&ab_channel=zel",
+            "percent": 100,
+            "hz": 240
+            },
+            {
+                "user": "TacoJed",
+                "link": "https://www.youtube.com/watch?v=MqBtjlRXN8g",
+                "percent": 100,
+                "rating": 0,
+                "MESSAGE!": "why did u give this a 0 tacojed whats so bad about it)",
+                "hz": 240
+            },
+            {
+                "user": "The16FigureLimit",
+                "link": "https://youtu.be/K-JgRa7S7kU",
+                "percent": 100,
+                "rating": 9,
+                "hz": 240
+            },
+            {
+            "user": "Ultrobro",
+            "link": "https://youtu.be/ovktWBWNHlQ?si=nf0VJX6tzzZGEG8v",
+            "percent": 100,
+            "rating": 7,
+            "hz": 60,
+            "mobile": "true"
+            },
+            {
+                "user": "zLineage",
+                "link": "https://www.youtube.com/watch?v=zFqvIFqaNcE",
+                "percent": 100,
+                "rating": 8,
+                "hz": 240
+            },
+            {
+            "user": "huntzz",
+            "link": "https://youtu.be/a2SpIQM4JnI",
+            "percent": 100,
+            "rating": 8,
+            "hz": 240
+            },
+            {
+                "user": "sphericle",
+                "link": "https://youtu.be/LIV4207EVtQ",
+                "percent": 100,
+                "rating": 7,
+                "hz": 240
+                },
+                {
+                "user": "netfedex97",
+                "link": "https://youtu.be/5g_geMci-ts",
+                "percent": 100,
+                "rating": 5,
+                "hz": 144
+                },
+                {
+                    "user": "NotDragon",
+                    "link": "https://www.youtube.com/watch?v=E6CxD_s76m0",
+                    "percent": 100,
+                    "rating": 7,
+                    "hz": 330
+                },
+                {
+                    "user": "cocobuggz",
+                    "link": "https://youtu.be/LDM_A7zYILI",
+                    "percent": 100,
+                    "rating": 6,
+                    "hz": 240
+                },
+                {
+                    "user": "zonkers",
+                    "link": "https://www.youtube.com/watch?v=FEfqCVDOop8",
+                    "percent": 100,
+                    "rating": 8,
+                    "hz": 240
+                },
+                {
+            "user": "TheBlueElephant",
+            "link": "https://youtu.be/uYL8yHcD3NM",
+            "percent": 100,
+            "rating": 8,
+            "hz": 240
+                },
+        {
+            "user": "K3NNYY0",
+            "link": "https://youtu.be/-p1cAzqlMZA",
+            "percent": 100,
+            "rating": 9,
+            "hz": 240
+        },
+        {
+            "user": "FogMello",
+            "link": "https://www.youtube.com/watch?v=uiM-plyFnl8&ab_channel=Saulgoodmello",
+            "percent": 100,
+            "rating": 7,
+            "hz": 240
+        },
+        {
+            "user": "xaern",
+            "link": "https://youtu.be/IMm25qp_yWg",
+            "percent": 100,
+            "rating": 10,
+            "hz": 576
+        },
+        {
+            "user": "Koozoo2000",
+            "link": "https://youtu.be/yc_Cx-JsP-A?t=106",
+            "percent": 100,
+            "rating": 10,
+            "hz": 360
+        },
+        {
+            "user": "acsua",
+            "link": "https://youtu.be/FvqFSWSEPZA",
+            "percent": 100,
+            "rating": 7,
+            "hz": 144
+        }
+    ]
+}

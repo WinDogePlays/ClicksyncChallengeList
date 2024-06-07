@@ -1,0 +1,110 @@
+{
+  "id": 105842542,
+  "name": "FINAL ATTEPMT",
+  "author": "Classy8264",
+  "creators": [
+    "Classy8264"
+  ],
+  "verifier": "Classy8264",
+  "verification": "https://www.youtube.com/watch?v=32_sIZbRA5w",
+  "percentToQualify": 100,
+  "song-title": "DJ-Nate - Theory of Everything",
+  "records": [
+    {
+      "user": "limitationn",
+      "link": "https://youtu.be/A0qPHde1kc4",
+      "percent": 100,
+      "rating": 7,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "Zealous",
+      "link": "https://youtu.be/1Vne5Sqcu6A",
+      "percent": 100,
+      "rating": 6,
+      "hz": 720,
+      "reviewed": true
+    },
+    {
+      "user": "netfedex97",
+      "link": "https://youtu.be/InPqgg3_wwM",
+      "percent": 100,
+      "rating": 7,
+      "hz": 144,
+      "reviewed": true
+    },
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/g0rjUBtKyo4",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "acsua",
+      "link": "https://youtu.be/hnY1hRuq2rQ?si=Js-Onc4ikvkwvi0x",
+      "percent": 100,
+      "rating": 9,
+      "hz": 144,
+      "reviewed": true
+    },
+    {
+      "user": "Cocobuggz",
+      "link": "https://youtu.be/YeTlfDL5Yi8",
+      "percent": 100,
+      "rating": 10,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "NotDragon",
+      "link": "https://www.youtube.com/watch?v=IyQBo5hW75A",
+      "percent": 100,
+      "rating": 7,
+      "hz": 9,
+      "reviewed": true
+    },
+    {
+      "user": "invest",
+      "link": "https://youtu.be/vyHg5xaPFxc",
+      "percent": 100,
+      "rating": 8,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "sphericle",
+      "link": "https://youtu.be/l9ifj5snblw",
+      "percent": 100,
+      "rating": 7,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "WinDoge",
+      "link": "https://youtu.be/qRalPqSVOPQ",
+      "percent": 100,
+      "rating": 10,
+      "hz": 144,
+      "reviewed": true
+    },
+    {
+      "user": "rainity",
+      "link": "https://www.youtube.com/watch?v=fqiT7QbRXnk",
+      "percent": 100,
+      "rating": 8,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "ewumd68",
+      "link": "https://youtu.be/tqT98H7klvM?t=3899",
+      "percent": 100,
+      "rating": 0,
+      "hz": 60,
+      "reviewed": true
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": 105662426,
+  "name": "Unnamed 52",
+  "author": "WinDogePlays",
+  "creators": [
+    "xaern"
+  ],
+  "verifier": "WinDoge",
+  "verification": "https://www.youtube.com/watch?v=yw8ZSLZsciE",
+  "percentToQualify": 100,
+  "song-title": "Dimrain47 - Operation: Evolution",
+  "records": [
+    {
+      "user": "limitationn",
+      "link": "https://youtu.be/Yla9GWh6h-I?si=7xH4zqd_3u6cuK6m",
+      "percent": 100,
+      "rating": 7,
+      "hz": 60,
+      "reviewed": true
+    },
+    {
+      "user": "netfedex97",
+      "link": "https://youtu.be/dW3oTzmIo34",
+      "percent": 100,
+      "rating": 7,
+      "hz": 144,
+      "reviewed": true
+    },
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/udlTsgKtBzU",
+      "percent": 100,
+      "rating": 6,
+      "hz": 60,
+      "reviewed": true
+    },
+    {
+      "user": "Cocobuggz",
+      "link": "https://youtu.be/lABvSrDC_4o",
+      "percent": 100,
+      "rating": 9,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "zLineage",
+      "link": "https://youtu.be/FW_WCgzOEuI",
+      "percent": 100,
+      "rating": 7,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "sphericle",
+      "link": "https://youtu.be/QelU7QMBOCg",
+      "percent": 100,
+      "rating": 6,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "K3NNYY0",
+      "link": "https://youtu.be/NiSF2Lwnnk4",
+      "percent": 100,
+      "rating": 9,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "zonkers",
+      "link": "https://youtu.be/bQrhtdZDo44",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "FogMello",
+      "link": "https://youtu.be/qeI52okqTIE",
+      "percent": 100,
+      "rating": 8,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "NotDragon",
+      "link": "https://www.youtube.com/watch?v=f0MItWtLwqc",
+      "percent": 100,
+      "rating": 8,
+      "hz": 330,
+      "reviewed": true
+    },
+    {
+      "user": "Classy8264",
+      "link": "https://www.youtube.com/watch?v=uz-KD0owrr0",
+      "percent": 100,
+      "rating": 2,
+      "hz": 240,
+      "reviewed": true
+    }
+  ]
+}

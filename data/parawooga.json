@@ -1,0 +1,55 @@
+{
+  "id": 105723854,
+  "name": "parawooga",
+  "author": "Vanious",
+  "creators": [
+    "Vanious"
+  ],
+  "verifier": "Vanious",
+  "verification": "https://youtu.be/H54y-6EfzaU?si=4BIspslEzAcPMej9",
+  "percentToQualify": 100,
+  "song-title": "Super Mario 3D World - Beep Block Skyway",
+  "song-link": "https://drive.google.com/file/d/1-CPWjoga-qB3eQEX-lGO-QVJziRHxvnS/view?usp=drivesdk",
+  "records": [
+    {
+      "user": "The16FigureLimit",
+      "link": "https://youtu.be/SGpklax9Kyo",
+      "percent": 100,
+      "rating": 8,
+      "hz": 60,
+      "reviewed": true
+    },
+    {
+      "user": "classy8264",
+      "link": "https://www.youtube.com/watch?v=W6lEf2k603k",
+      "percent": 100,
+      "rating": 7,
+      "hz": 60,
+      "reviewed": true
+    },
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/68WzJf5xXxQ",
+      "percent": 100,
+      "rating": 4,
+      "hz": 60,
+      "reviewed": true
+    },
+    {
+      "user": "xaern",
+      "link": "https://youtu.be/IMm25qp_yWg",
+      "percent": 100,
+      "rating": 10,
+      "hz": 60,
+      "reviewed": true
+    },
+    {
+      "user": "limitationn",
+      "link": "https://youtu.be/VZ_N9PWwiZM?si=xpPQhJ4lu0-MDKWY",
+      "percent": 100,
+      "rating": -999,
+      "hz": 60,
+      "reviewed": true
+    }
+  ]
+}

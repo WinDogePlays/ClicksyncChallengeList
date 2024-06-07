@@ -1,0 +1,34 @@
+{
+    "id": 57436521,
+    "name": "",
+    "author": "",
+    "creators": [
+        "",
+        ""
+    ],
+    "verifier": "",
+    "verification": "",
+    "brokenHz": "60, 144",
+    "percentToQualify": 100,
+    "song-title": "Artist - Song Name",
+    "song-link": "https://www.youtube.com/watch?v=oS-DaUtHVhI",
+    "records": [
+        {
+            "user": "pcPositivity",
+            "link": "https://youtu.be/_yBG5WA1LaA",
+            "percent": 100,
+            "rating": 7,
+            "hz": 480,
+            "reviewed": true
+        },
+          {
+            "user": "mobileHater",
+            "link": "https://youtu.be/_yBG5WA1LaA",
+            "percent": 100,
+            "rating": 0.1,
+            "mobile": "true",
+            "hz": 60,
+            "reviewed": true
+        }
+    ]
+}

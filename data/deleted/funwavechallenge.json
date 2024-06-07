@@ -1,0 +1,30 @@
+{
+    "id": 103372958,
+    "name": "Fun Wave Challenge",
+    "author": "The16FigureLimit",
+    "creators": ["The16FigureLimit"],
+    "verifier": "The16FigureLimit",
+    "verification": "https://youtu.be/PeX9CAnhCgU?si=hFWcUjTY4-MrKiFR",
+    "percentToQualify": 100,
+    "song-title": "Creo - Flow",
+    "records": [
+            {
+            "user": "TacoJed",
+            "link": "https://www.youtube.com/watch?v=8Zt7h47KdcA",
+            "percent": 100,
+            "hz": 240
+            },
+            {
+            "user": "limitationn",
+            "link": "https://youtu.be/seRFLLrdokk",
+            "percent": 100,
+            "hz": 2000
+            },
+            {
+            "user": "YohanRodas",
+            "link": "https://youtu.be/PeX9CAnhCgU?si=hFWcUjTY4-MrKiFR",
+            "percent": 100,
+            "hz": 240
+            }
+    ]
+}

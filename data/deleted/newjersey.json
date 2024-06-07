@@ -1,0 +1,60 @@
+{
+    "id": 97356388,
+    "name": "New Jersy",
+    "author": "TacoJed",
+    "creators": ["TacoJed"],
+    "verifier": "TacoJed",
+    "verification": "https://www.youtube.com/watch?v=ieVbD0KGgXw",
+    "percentToQualify": 100,
+    "song-title": "Mydogbuddy7 - Browsing /E/",
+    "records": [
+            {
+            "user": "limitationn",
+            "link": "https://youtu.be/Bv3jPLoUT9Q?si=t_2Xv-Dbp_GZcs99",
+            "percent": 100,
+            "hz": 240
+        },
+            {
+            "user": "NotDragon",
+            "link": "https://www.youtube.com/watch?v=muay5gVW_nU",
+            "percent": 100,
+            "rating": 6,
+            "hz": 330
+        },
+            {
+            "user": "zLineage",
+            "link": "https://www.youtube.com/watch?v=trajVcDRWK8",
+            "percent": 100,
+            "rating": 6,
+            "hz": 240
+        },
+            {
+            "user": "Zealous",
+            "link": "https://youtu.be/MhHbL6xgzg8",
+            "percent": 100,
+            "rating": 0,
+            "hz": 240
+        },
+            {
+            "user": "Cowdoom11",
+            "link": "https://www.youtube.com/watch?v=rsU2cjTR0EM",
+            "percent": 100,
+            "rating": 4,
+            "hz": 360
+        },
+            {
+            "user": "Cocobuggz",
+            "link": "https://youtu.be/3xIwEEk1gQg?si=NgZZoWq5HiZ0cLAf",
+            "percent": 100,
+            "rating": 6,
+            "hz": 240
+        },
+            {
+            "user": "zonkers",
+            "link": "https://youtu.be/j2_eKUFThe0",
+            "percent": 100,
+            "rating": 9,
+            "hz": 240
+        }
+    ]
+}

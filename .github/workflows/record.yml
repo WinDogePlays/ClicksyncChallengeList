@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm install axios simple-git
+          npm install axios
 
       - name: Run script
         run: node checkYoutubeUploads.js

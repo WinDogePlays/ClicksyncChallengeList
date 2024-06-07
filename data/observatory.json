@@ -1,0 +1,116 @@
+{
+  "id": 75873131,
+  "name": "observatory",
+  "author": "HaydenDom",
+  "creators": [
+    "HaydenDom"
+  ],
+  "verifier": "HaydenDom",
+  "verification": "https://www.youtube.com/watch?v=wwfQ7Lf439g",
+  "creatorChannel": "https://www.youtube.com/@HaydenDom",
+  "percentToQualify": 100,
+  "song-title": "Super Mario Galaxy - Rosalina in the Observatory 3",
+  "song-link": "https://drive.google.com/file/d/1mpiSwG2JgEIeg5G1QL54XAkXCOgxLlAi/view?usp=drivesdk",
+  "records": [
+    {
+      "user": "skiptracingclub",
+      "link": "https://youtu.be/pG0AosSCDnI",
+      "percent": 100,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "TacoJed",
+      "link": "https://www.youtube.com/watch?v=wwfQ7Lf439g",
+      "percent": 100,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "limitationn",
+      "link": "https://youtu.be/gy8YcD3To-I?si=GDCdpR86DyOfBYF8",
+      "percent": 100,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "doggo",
+      "link": "https://youtu.be/PMZmO-te-QU",
+      "percent": 100,
+      "hz": 360,
+      "reviewed": true
+    },
+    {
+      "user": "zLineage",
+      "link": "https://www.youtube.com/watch?v=1P7xIks4L-w",
+      "percent": 100,
+      "rating": 9.9,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "NotDragon",
+      "link": "https://www.youtube.com/watch?v=E6CxD_s76m0",
+      "percent": 100,
+      "rating": 10,
+      "hz": 330,
+      "reviewed": true
+    },
+    {
+      "user": "zonkers",
+      "link": "https://youtu.be/v6XPxPmioGs",
+      "percent": 100,
+      "rating": 8,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "TheBlueElephant",
+      "link": "https://youtu.be/uYL8yHcD3NM",
+      "percent": 100,
+      "rating": 8,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "netfedex97",
+      "link": "https://youtu.be/hfThYA04qd8",
+      "percent": 100,
+      "rating": 8,
+      "hz": 144,
+      "reviewed": true
+    },
+    {
+      "user": "K3NNYY0",
+      "link": "https://youtu.be/-p1cAzqlMZA",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "xaern",
+      "link": "https://youtu.be/IMm25qp_yWg",
+      "percent": 100,
+      "rating": 10,
+      "hz": 576,
+      "reviewed": true
+    },
+    {
+      "user": "FogMello",
+      "link": "https://www.youtube.com/watch?v=-PJ4oECuJok&ab_channel=Saulgoodmello",
+      "percent": 100,
+      "rating": 10,
+      "hz": 240,
+      "reviewed": true
+    },
+    {
+      "user": "sphericle",
+      "link": "https://www.youtube.com/watch?v=K7RIlD8kOQc",
+      "percent": 100,
+      "hz": 240,
+      "rating": 10,
+      "reviewed": false
+    }
+  ]
+}

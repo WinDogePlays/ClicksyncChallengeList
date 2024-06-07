@@ -27,4 +27,6 @@ jobs:
           npm install axios
 
       - name: Run script
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: node checkYoutubeUploads.js

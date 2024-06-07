@@ -1,7 +1,7 @@
 {
   "id": 0,
   "name": "Join the Clicksync Challenge List!",
-  "author": "NOT FOUND",
+  "author": "Unknown",
   "creators": [],
   "verifier": "Unknown",
   "verification": "",
@@ -15,10 +15,5 @@
       "rating": 0.1,
       "reviewed": false
     }
-  ],
-  "rating": 0.1,
-  "placement": "NOT FOUND",
-  "hz": 240,
-  "user": "zsphericle",
-  "gameType": "NOT FOUND"
+  ]
 }

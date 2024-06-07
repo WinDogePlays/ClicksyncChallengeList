@@ -1,0 +1,24 @@
+{
+  "id": 0,
+  "name": "Pink Caramel",
+  "author": "NOT FOUND",
+  "creators": [],
+  "verifier": "Unknown",
+  "verification": "",
+  "percentToQualify": 100,
+  "records": [
+    {
+      "user": "WinDogeee",
+      "link": "https://www.youtube.com/watch?v=n7qoqoBUN_U",
+      "percent": 100,
+      "hz": 240,
+      "rating": 5,
+      "reviewed": false
+    }
+  ],
+  "rating": 5,
+  "placement": "NOT FOUND",
+  "hz": 240,
+  "user": "WinDogeee",
+  "gameType": "NOT FOUND"
+}

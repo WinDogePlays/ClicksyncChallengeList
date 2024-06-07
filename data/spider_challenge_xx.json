@@ -1,0 +1,19 @@
+{
+  "id": 0,
+  "name": "Spider Challenge XX",
+  "author": "Unknown",
+  "creators": [],
+  "verifier": "Unknown",
+  "verification": "",
+  "percentToQualify": 100,
+  "records": [
+    {
+      "user": "WinDoge",
+      "link": "https://www.youtube.com/watch?v=vvezENfIw7k",
+      "percent": 100,
+      "hz": 240,
+      "rating": 7,
+      "reviewed": false
+    }
+  ]
+}

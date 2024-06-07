@@ -1,0 +1,3 @@
+const CHANNEL_IDS = [];
+
+module.exports = { CHANNEL_IDS };
